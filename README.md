@@ -1,2 +1,3 @@
-# clases
-Código utilizado para distintas presentaciones
+# Clases
+Pedazos de código, presentaciones, charlas.
+Hacer docencia y aprender en el proceso.
